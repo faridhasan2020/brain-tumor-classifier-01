@@ -3,7 +3,7 @@
 **Student:** [Md. Farid Hasan]
 
 ## GitHub Repository
-[https://github.com/faridhasan007/brain-tumor-classifier]
+[https://github.com/faridhasan007/brain-tumor-classifier-01]
 
 ## Model Used
 Vision Transformer `google/vit-base-patch16-224`, fine-tuned on the Brain Tumor MRI Dataset (Kaggle) for 4 classes: glioma, meningioma, notumor, pituitary.
