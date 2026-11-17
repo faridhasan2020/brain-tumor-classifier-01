@@ -1,2 +1,5 @@
 .venv/
-.venv/
+artifacts/
+brain-tumor-classifier.zip
+artifacts.zip
+
